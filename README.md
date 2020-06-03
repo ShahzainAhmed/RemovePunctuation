@@ -1,2 +1,2 @@
-## Remove Punctuation from a String:
+## Remove Punctuations from a String:
 
