@@ -1,2 +1,2 @@
-## Remove Punctuation from a string:
-removes punctuation from the program.
+## Remove Punctuation from a String:
+
