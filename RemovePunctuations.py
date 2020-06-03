@@ -5,7 +5,7 @@ punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 my_str = "Hello!!!, he said ---and went."
 
 
-# To take input from the user
+# Incase you want to take input from the user, you can remove it from the comments, and use it to take input.
 # my_str = input("Enter a string: ")
 
 # remove punctuation from the string
