@@ -4,4 +4,4 @@
 ### To understand this program, keep the following concepts in mind:
 - Variables.
 - Taking input.
-- s
+- For / If statements.
