@@ -5,3 +5,4 @@
 - Variables.
 - Taking input.
 - For / If statements.
+- Print statements.
