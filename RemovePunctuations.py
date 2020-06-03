@@ -1,7 +1,9 @@
 # Defining a string called "Punctuations"
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
+# Creating a variable.
 my_str = "Hello!!!, he said ---and went."
+
 
 # To take input from the user
 # my_str = input("Enter a string: ")
